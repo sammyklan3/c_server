@@ -17,7 +17,7 @@ A basic multi-client chat server built using socket programming in C. The server
 
 ## Installation
 
-1. Clone this repository (if stored on a VCS) or copy the `chat_server.c` file.
+1. Clone this repository (if stored on a VCS) or copy the `main.c` file.
 2. Compile the code with the following command:
 
    ```sh
