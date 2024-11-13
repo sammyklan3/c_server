@@ -21,4 +21,4 @@ A basic multi-client chat server built using socket programming in C. The server
 2. Compile the code with the following command:
 
    ```sh
-   gcc chat_server.c -o chat_server -lpthread
+   gcc main.c -o chat_server -lpthread
